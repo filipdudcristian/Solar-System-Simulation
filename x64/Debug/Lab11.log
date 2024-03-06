@@ -1,0 +1,28 @@
+﻿  Camera.cpp
+  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+E:\Anu3\Proiectare Grafica\OpenGL dev libs\include\GLFW\glfw3.h(123,1): message : see previous definition of 'APIENTRY'
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(201,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(202,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(206,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(207,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(208,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(209,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(218,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(218,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(626,12): warning C4305: '=': truncation from 'double' to 'float'
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(732,96): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(733,93): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(734,93): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(735,92): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(736,97): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(739,98): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(807,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Mesh.cpp
+  Model3D.cpp
+  Shader.cpp
+  SkyBox.cpp
+  stb_image.cpp
+  tiny_obj_loader.cpp
+  Generating Code...
+  Lab11.vcxproj -> E:\Anu3\Proiectare Grafica\Lab11\x64\Debug\Lab11.exe

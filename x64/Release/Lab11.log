@@ -1,0 +1,26 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (Lab11.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+E:\Anu3\Proiectare Grafica\OpenGL dev libs\include\GLFW\glfw3.h(123,1): message : see previous definition of 'APIENTRY'
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(197,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(198,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(202,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(203,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(204,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(205,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(214,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(214,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(608,12): warning C4305: '=': truncation from 'double' to 'float'
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(711,96): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(712,93): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(713,93): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(714,92): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(715,97): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(718,98): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(786,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  2 of 1835 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Lab11.vcxproj -> E:\Anu3\Proiectare Grafica\Lab11\x64\Release\ProiectPG.exe
